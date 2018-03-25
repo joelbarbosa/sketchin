@@ -17,7 +17,7 @@ who's constructed different automata based on 256 different rules. But
 what are rules even?
 
 Okay, so going back to `decentralized spatially extended systems` statement,
-we can start by working backwards. We know are are working with simple
+we can start by working backwards. We know are working with simple
 components, which, to be simple, will be binary. So an single automaton 
 can take shape in two states:
 
